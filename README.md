@@ -2,7 +2,7 @@
 
 * My name is Cláudio Raphael, i'm from Brazil 😄 .
 * I'm looking for my first job as a back-end or front-end developer.
-* Passionate about Java, Javascript, Html, CSS and SQL ❤️ 
+* Passionate about Javascript, Html, CSS, Vuejs, Nodejs, Express, and SQL ❤️ 
 * I love solving problems and finding agile solutions
 
 
