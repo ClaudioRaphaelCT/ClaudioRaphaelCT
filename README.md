@@ -5,9 +5,6 @@
 * Passionate about Javascript, Nodejs, Express, Nestjs, Pentaho and SQL ❤️ 
 * I love solving problems and finding agile solutions
 
-### 🌎 A inteligência é o que você usa quando não sabe o que fazer!
-
-
 
 <div align="left">
   <a href="https://github.com/ClaudioRaphaelCT">
@@ -30,7 +27,8 @@
 
 
 
- ## Conecte-se comigo:
+
+ # Conecte-se comigo:
 <div>
   <a href="https://www.linkedin.com/in/cl%C3%A1udio-raphael-cabral-095738203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
