@@ -1,7 +1,7 @@
 # Hey, 👋 
 
 * My name is Cláudio Raphael, i'm from Brazil 😄 .
-* Back-end developer.
+* Full stack developer.
 * Passionate about Javascript, Nodejs, Express, Nestjs, Pentaho and SQL ❤️ 
 * I love solving problems and finding agile solutions
 
